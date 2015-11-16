@@ -8,7 +8,7 @@ describe('Calculator', function(){
 
   /*
   it('substractPositive', function(){
-    assert.equal('2', cal.substractPositive(3, 1));
+    assert.equal('0', cal.substractPositive(0, -1));
   });
   */
 
