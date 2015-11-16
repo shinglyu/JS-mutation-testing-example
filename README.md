@@ -10,6 +10,7 @@ Using [grunt-mutation-testing](https://www.npmjs.com/package/grunt-mutation-test
 ```
 sudo npm install -g mocha
 sudo npm install -g grunt-cli
+npm install .
 ```
 
 # Running
